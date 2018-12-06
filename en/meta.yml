@@ -1,11 +1,9 @@
-title: generic-scratch3-draw-sprite
+title: Drawing sprites
 hero_image: images/banner.png
-description: generic-scratch3-draw-sprite description
-version: 4
+description: Draw sprites in Scratch 3
 listed: false
-copyedit: false
-last_tested: "2018-12-06"
+ingredient: true
+copyedit: true
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Drawing sprites
+
