@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Klik op **Teken** in het **Kies een Sprite** menu om **een nieuwe sprite te tekenen**.
 
-![new_sprite](images/new_sprite.png)
+![nieuwe_sprite](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Gebruik het tekengereedschap in het tabblad **Kostuums** om je nieuwe sprite te tekenen.
 
-![paint_tools](images/paint_tools.png)
+![teken_gereedschap](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Als je klaar bent vergeet dan niet om je nieuwe sprite een verstandige naam te geven.
