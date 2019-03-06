@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- برای **کشیدن یک شبح جدید**، در منوی **Choose a Sprite** بر روی **Paint** کلیک کنید.
 
-![new_sprite](images/new_sprite.png)
+![شبح_جدید](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- با استفاده از ابزار طراحی در قسمت **Costumes** شبح جدید خود را نقاشی کنید.
 
-![paint_tools](images/paint_tools.png)
+![ابزار_نقاشی](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- هنگامی که کار شما به پایان رسید، فراموش نکنید که برای شبح جدید خود، یک نام مناسب بگذارید.
