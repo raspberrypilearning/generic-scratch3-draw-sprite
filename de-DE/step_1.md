@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Klicke auf **Malen** im **Figur wählen** Menü um **eine neue Figur** zu zeichnen.
 
-![new_sprite](images/new_sprite.png)
+![neue Figur](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Verwende die Zeichenwerkzeuge auf der Registerkarte **Kostüme**, um dein neues Sprite zu zeichnen.
 
-![paint_tools](images/paint_tools.png)
+![Zeichenwerkzeuge](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Vergiss nicht, deiner neuen Figur einen vernünftigen Namen zu geben.
