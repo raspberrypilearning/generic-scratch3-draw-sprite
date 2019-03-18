@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- **Yeni bir kukla çizmek** için **Bir Kukla Seç** düğmesi üzerine gelip, açılan listeden **Çizim** seçeneği tıklanır.
 
-![new_sprite](images/new_sprite.png)
+![yeni_kukla](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Yeni kuklanızı boyamak için **Dekorlar** sekmesindeki çizim aracını kullanın.
 
-![paint_tools](images/paint_tools.png)
+![boyama_araçları](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Bitirdiğinizde, yeni kuklanıza anlamlı bir isim vermeyi unutmayın.
