@@ -2,7 +2,7 @@
 
 ![nieuwe_sprite](images/new_sprite.png)
 
-- Gebruik het tekengereedschap in het tabblad **Kostuums** om je nieuwe sprite te tekenen.
+- Gebruik het tekengereedschap in het tabblad **Uiterlijken** om je nieuwe sprite te tekenen.
 
 ![teken_gereedschap](images/paint_tools.png)
 
