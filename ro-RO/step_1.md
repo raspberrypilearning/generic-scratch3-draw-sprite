@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Dă click pe **Desenează** din meniul **Alege un Personaj** pentru a **desena un personaj nou**.
 
-![new_sprite](images/new_sprite.png)
+![personaj_nou](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Folosește instrumentul de desenat din tab-ul **Costume** pentru a desena noul tău personaj.
 
-![paint_tools](images/paint_tools.png)
+![instrumente_de_desenat](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- După ce ai terminat, nu uita să dai un nume potrivit noului tău personaj.
