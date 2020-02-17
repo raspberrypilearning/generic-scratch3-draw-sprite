@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Klikni na **Nariši** v meniju **Izberi figuro**, da **narišeš novo figuro**.
 
-![new_sprite](images/new_sprite.png)
+![nova_figura](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Uporabi orodje za risanje na zavihku **Videzi**, da narišeš svojo novo figuro.
 
-![paint_tools](images/paint_tools.png)
+![risalna_orodja](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Ne pozabi dati svoji figuri smiselno ime, potem ko končaš.
