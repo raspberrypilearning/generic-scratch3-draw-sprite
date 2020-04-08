@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Fai clic su **Disegna un nuovo costume** dal menu **Scegli uno Costume** per **Disegnare un nuovo costume**.
 
-![new_sprite](images/new_sprite.png)
+![nuovo_sprite](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Usa lo strumento di disegno nella scheda **Costumi** per disegnare il tuo nuovo sprite.
 
-![paint_tools](images/paint_tools.png)
+![strumenti_di_disegno](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Quando hai finito, non dimenticare di dare al tuo nuovo sprite un nome significativo.
