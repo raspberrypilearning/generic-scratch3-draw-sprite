@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Κάνε κλικ στην επιλογή **Ζωγραφική** του μενού **Επέλεξε ένα αντικείμενο** για να **σχεδιάσεις ένα νέο αντικείμενο**.
 
-![new_sprite](images/new_sprite.png)
+![νέο αντικείμενο](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Χρησιμοποίησε το εργαλείο σχεδίασης της καρτέλας **Ενδυμασίες** για να ζωγραφίσεις το νέο σου αντικείμενο.
 
-![paint_tools](images/paint_tools.png)
+![εργαλεία σχεδίασης](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Όταν τελειώσεις μην ξεχάσεις να δώσεις στο νέο σου αντικείμενο ένα όνομα που θα αποδίδει τη σημασία του.
