@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- **모양 고르기** 메뉴에서 **그리기**를 클릭하여 **새 스프라이트를 그리세요**.
 
-![new_sprite](images/new_sprite.png)
+![새-스프라이트](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- **모양** 탭의 그리기 도구를 이용하여 새 스프라이트를 그리세요.
 
-![paint_tools](images/paint_tools.png)
+![그리기_도구](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- 완료되면 새 스프라이트에 적당한 이름을 지정하세요.
