@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- انقر فوق ** رسم** في قائمة ** اختيار كائن** لـ** ترسم كائن جديد **.
 
-![new_sprite](images/new_sprite.png)
+![كائن جديد](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- استخدم أداة الرسم في علامة التبويب **المظاهر** لرسم الكائن الجديد.
 
-![paint_tools](images/paint_tools.png)
+![أدوات_الطلاء](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- عندما تنتهي, لا تنسى أن تعطي الكائن الجديد إسم معقول.
