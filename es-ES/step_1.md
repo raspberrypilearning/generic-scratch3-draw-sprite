@@ -1,4 +1,4 @@
-- Haz clic en **Pintura** en el menú **Elige un objeto** para **Pintar un nuevo objeto**.
+- Haz clic en **Pinta** en el menú **Elige un objeto** para **Pintar un nuevo objeto**.
 
 ![new_sprite](images/new_sprite.png)
 
