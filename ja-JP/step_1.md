@@ -1,6 +1,6 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- **コスチュームを選ぶ** (えらぶ) メニューから**描く** をクリックし、**新しいスプライトを描きます** 。
 
-![new_sprite](images/new_sprite.png)
+![新しいスプライト](images/new_sprite.png)
 
 - Use the drawing tool in the **Costumes** tab to paint your new sprite.
 
