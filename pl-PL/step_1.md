@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Kliknij **Maluj** na menu **Wybierz duszka** aby**Namalować nowego duszka**.
 
-![new_sprite](images/new_sprite.png)
+![nowy_duszek](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Użyj narzędzia do rysowania w zakładce **Kostiumy** do malowania nowego duszka.
 
-![paint_tools](images/paint_tools.png)
+![narzędzia_do_malowania](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Kiedy skończysz, nie zapomnij nadać swojemu nowemu duszkowi rozsądnej nazwy.
