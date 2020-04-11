@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- **नए स्प्राइट को पैंट** करने के लिए **Choose a Sprite** मेनू में **Paint** पर क्लिक करें।
 
 ![new_sprite](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- अपने नए स्प्राइट को पेंट करने के लिए **Costumes** (परिधान) टैब में ड्राइंग टूल का उपयोग करें ।
 
 ![paint_tools](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- जब आप ड्राइंग समाप्त कर लें, तो अपने नए स्प्राइट को कोई उचित नाम देना न भूलें।
