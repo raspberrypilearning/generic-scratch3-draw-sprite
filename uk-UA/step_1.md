@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Клацни **Малювати** в меню **Обрати спрайт**, щоб **Намалювати новий спрайт**.
 
-![new_sprite](images/new_sprite.png)
+![новий спрайт](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Використовуй інструменти на вкладці **Образи**, щоб намалювати твій новий спрайт.
 
-![paint_tools](images/paint_tools.png)
+![інструменти малювання](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Коли ти закінчиш, не забудь надати своєму спрайту логічне ім’я.
