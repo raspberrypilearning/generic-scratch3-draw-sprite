@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- 在 **选择一个角色** 选单 点击 **绘制** 来 **绘制新精灵** 。
 
-![new_sprite](images/new_sprite.png)
+![新精灵](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- 使用 **造型** 标签页中的绘图工具以绘制新的精灵。
 
-![paint_tools](images/paint_tools.png)
+![绘制工具](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- 最后，别忘了给新的精灵起一个合适的名字。
