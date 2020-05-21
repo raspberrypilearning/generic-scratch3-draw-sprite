@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- 在**選擇一個精靈**選單上，點擊**繪圖**來 **繪製新精靈** 。
 
-![new_sprite](images/new_sprite.png)
+![新精靈](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- 使用**造型**標籤頁中的繪圖工具來繪製新的精靈。
 
-![paint_tools](images/paint_tools.png)
+![繪圖工具](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- 最後，別忘了給新的精靈起一個合適的名字。
