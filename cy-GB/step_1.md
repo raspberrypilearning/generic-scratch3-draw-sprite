@@ -1,9 +1,9 @@
-- Click **Paint** on the **Choose a Sprite** menu to **Paint new sprite**.
+- Clicia **Paentio** ar y ddewislen **Dewiswch Gorlun** i **Baentio corlun newydd**.
 
 ![new_sprite](images/new_sprite.png)
 
-- Use the drawing tool in the **Costumes** tab to paint your new sprite.
+- Defnyddia'r offeryn arlunio yn y tab **Gwisgoedd** i beintio dy gorlun newydd.
 
 ![paint_tools](images/paint_tools.png)
 
-- When you are finished, don't forget to give your new sprite a sensible name.
+- Ar ôl i ti orffen, paid ag anghofio rhoi enw synhwyrol i dy gorlun newydd.
