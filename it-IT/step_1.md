@@ -1,4 +1,4 @@
-- Fai clic su **Disegna un nuovo costume** dal menu **Scegli uno Costume** per **Disegnare un nuovo costume**.
+- Fai clic su **Disegna un nuovo sprite** dal menu **Scegli uno Sprite** per **Disegnare un nuovo sprite**.
 
 ![nuovo_sprite](images/new_sprite.png)
 
